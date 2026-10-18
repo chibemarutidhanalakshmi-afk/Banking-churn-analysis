@@ -50,10 +50,9 @@ That is 12 times higher than active customers under 40 (7.04%). A dedicated re-e
 | File | Description |
 |------|-------------|
 | `banking_queries.sql` | All 11 analysis queries, fully commented with business reasoning |
-| `Banking_Churn_Dashboard.pbix` | Interactive Power BI dashboard (open in Power BI Desktop) |
-| `Banking_Churn_Dashboard.pdf` | PDF export of both dashboard pages |
-| `customers.csv` | Source dataset (10,000 rows) |
-| `screenshots/` | Dashboard preview images |
+| `churn.pbix` | Interactive Power BI dashboard (open in Power BI Desktop) |
+| `final dashboard.pdf` | PDF export of both dashboard pages |
+| `Customers.csv` | Source dataset (10,000 rows) |
 
 ---
 
@@ -63,7 +62,7 @@ That is 12 times higher than active customers under 40 (7.04%). A dedicated re-e
 
 **Detailed Analysis Page** — five supporting charts showing churn by country, gender, age group, activity status, and number of products
 
-(See PDF export in this repo for full visuals.)
+(See `final dashboard.pdf` in this repo for full visuals.)
 
 ---
 
@@ -78,7 +77,7 @@ That is 12 times higher than active customers under 40 (7.04%). A dedicated re-e
 
 ## About Me
 
-**Maruthi Dhanalakshmi Chibe** — MSc Artificial Intelligence and Machine Learning (University of East London, industrial placement year 2025–2027). Available immediately for UK data analyst placements.
+**Maruthi Dhanalakshmi Chibe** — MSc Artificial Intelligence and Machine Learning (University of East London, industrial placement year 2025–2027). Currently working as a Developer (industrial placement) at Krome Technologies, using Power BI, ServiceNow and Dynamics 365.
 
 - **LinkedIn:** [maruthidhanalakshmi-chibe-528a9a341](https://www.linkedin.com/in/maruthidhanalakshmi-chibe-528a9a341)
 - **GitHub:** [chibemarutidhanalakshmi-afk](https://github.com/chibemarutidhanalakshmi-afk)
